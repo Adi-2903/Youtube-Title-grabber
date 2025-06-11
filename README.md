@@ -18,7 +18,7 @@ Before you begin, ensure you have Python 3.8 or higher installed on your system.
 1.  **Clone the repository (or download the `main.py` file):**
 
     ```bash
-    git clone https://github.com/your-username/YT-Title-Grabber.git
+    git clone https://github.com/Adi-2903/YT-Title-Grabber.git
     cd YT-Title-Grabber
     ```
 
